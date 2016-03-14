@@ -1,0 +1,26 @@
+{
+  "name": "mb-less",
+  "version": "1.0.4",
+  "description": "less编译工具（自用）",
+  "main": "./main.js",
+  "bin": {
+    "mb-less": "./main.js"
+  },
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "dependencies": {
+    "colors": "*"
+  },
+  "keywords": [
+    "mb",
+    "mb-less"
+  ],
+  "author": {
+    "name": "50%的灰"
+  }
+}
